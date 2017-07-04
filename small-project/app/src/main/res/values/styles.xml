@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/PrimaryColor</item>
+        <item name="colorPrimaryDark">@color/DarkPrimaryColor</item>
+        <item name="colorAccent">@color/AccentColor</item>
+    </style>
+    <style name="splashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+    <style name="NoActionBarTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/PrimaryColor</item>
+        <item name="colorAccent">@color/AccentColor</item>
+        <item name="colorPrimaryDark">@color/DarkPrimaryColor</item>
+    </style>
+
+    <style name="SettingsTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:name">@string/title_activity_settings</item>
+    </style>
+
+    <style name="MyDatePickerDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <!-- this is new -->
+        <item name="colorAccent">@color/PrimaryColor</item>
+
+        <item name="android:datePickerStyle">@style/MyDatePickerStyle</item>
+        <item name="android:colorAccent">@color/PrimaryColor</item>
+    </style>
+
+    <style name="MyDatePickerStyle" parent="@android:style/Theme.Holo">
+        <item name="android:headerBackground">@color/PrimaryColor</item>
+        <item name="android:calendarTextColor">@color/PrimaryColor</item>
+        <item name="android:dayOfWeekBackground">@color/PrimaryColor</item>
+        <item name="android:yearListSelectorColor">@color/PrimaryColor</item>
+        <item name="android:datePickerMode">calendar</item>
+        <item name="android:minDate">01/01/2000</item>
+    </style>
+
+
+
+
+
+</resources>

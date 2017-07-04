@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">مهمة العمل</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="email">البريد الالكترونى</string>
+    <string name="password">كلمة السر</string>
+    <string name="font">casual</string>
+    <string name="signup">أنشاء حساب</string>
+    <string name="repeat_password">تكرار كلمة السر</string>
+    <string name="empty_field">لا يحتوى على شئ</string>
+    <string name="no_matching">لم يتم التوصل لشئ</string>
+    <string name="required">مطالب بملئه</string>
+    <string name="try_again">حاول ثانيا</string>
+    <string name="home">الصفحه الرئيسيه</string>
+    <string name="wrong_field">خاطئ</string>
+    <string name="email_already_exsit">البريد الالكترونى موجود بالفعل</string>
+    <string name="settings">أعدادات</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="mobile_number_not_found">رقم الهاتف غير موجود</string>
+    <string name="phone">التليفون</string>
+    <string name="mobile">التليفون المحمول</string>
+    <string name="news">الأخبار</string>
+    <string name="change_Language">تغير اللغه</string>
+    <string name="arabic">العربيه</string>
+    <string name="english">الأنجليزيه</string>
+    <string name="new_details">تفاصيل الخبر</string>
+    <string name="contacts">المتصلون</string>
+</resources>
